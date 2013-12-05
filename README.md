@@ -14,8 +14,11 @@ gem install 'load'
 # Clone recursively into foo
 $ load https://github.com/christianbundy/foo.git
 
-# Clone recusrively into bar
-$ load https://github.com/christianbundy/foo.git bar
+# Clone recursively into foo with shortcut
+$ load christianbundy/foo
+
+# Clone recursively into bar with shortcut
+$ load christianbundy/foo bar
 ```
 
 ## Contributing
