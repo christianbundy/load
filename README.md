@@ -1,6 +1,6 @@
 # Load
 
-Load quickly and easily clones repositories recursively.
+Quickly and easily load projects, regardless of language, framework, religion, sex, or other public/private/protected class.
 
 ## Installation
 
