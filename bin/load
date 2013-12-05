@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'load'
+Load.load ARGV[0], ARGV[1]

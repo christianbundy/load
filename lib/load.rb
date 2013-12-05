@@ -1,5 +1,5 @@
-require "load/version"
-
 module Load
-  # Your code goes here...
+	def self.load(repo, path)
+    system "git clone --recursive #{repo} #{path}"
+  end
 end
