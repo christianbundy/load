@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
   s.email       = 'me@christianbundy.com'
   s.files       = ["lib/load.rb"]
   s.executables = ["load"]
-  s.homepage    =
-    'http://rubygems.org/gems/hola'
-  s.license       = 'MIT'
+  s.homepage    = 'https://github.com/christianbundy/load'
+  s.license     = 'MIT'
 end
