@@ -5,7 +5,7 @@ Quickly and easily load projects, regardless of language, framework, religion, s
 ## Installation
 
 ```sh
-gem install 'load'
+gem install load
 ```
 
 ## Usage
