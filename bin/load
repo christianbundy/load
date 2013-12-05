@@ -1,4 +1,8 @@
 #!/usr/bin/env ruby
 
 require 'load'
-Load.load ARGV[0], ARGV[1]
+if ARGV.empty?
+	Load.help
+else
+	Load.load ARGV[0], ARGV[1]
+end
