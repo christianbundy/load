@@ -5,7 +5,7 @@ require 'load/version'
 
 Gem::Specification.new do |spec|
 	spec.name        =  "load"
-	spec.version     =  "0.0.3"
+	spec.version     =  "1.0.0"
 	spec.summary     =  "Loading new projects is too damn hard."
 	spec.description =  "Quickly and easily load projects, regardless of language, framework, religion, sex, or other public/private/protected class."
 	spec.authors     = ["Christian Bundy"]
