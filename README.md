@@ -11,14 +11,7 @@ gem install 'load'
 ## Usage
 
 ```sh
-# Clone recursively into foo
-$ load https://github.com/christianbundy/foo.git
-
-# Clone recursively into foo with shortcut
-$ load christianbundy/foo
-
-# Clone recursively into bar with shortcut
-$ load christianbundy/foo bar
+$ load source/repo [ target ]
 ```
 
 ## Contributing
