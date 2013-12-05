@@ -1,6 +1,6 @@
 module Load
 	def self.help
-		puts "load source/repo [ target ]"
+		puts "Usage: load source/repo [ target ]"
 	end
 	def self.load(source, target)
 		if source.index(':') == nil and source.index('@') == nil
